@@ -35,7 +35,7 @@
 
 &nbsp;
 
- ## 🏆 GitHub Activity
+ #  <img src="https://c.tenor.com/LwULtPSWGTwAAAAi/trophy-joypixels.gif" width="30px"> GitHub Activity
 ![Metrics](https://metrics.lecoq.io/thejana2010?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&activity=1&code=1&gists=1&lines=1&tweets=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code.lines=12&code.load=100&code.visibility=public&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FColombo)
 
 &nbsp;
@@ -79,8 +79,7 @@
 
 |  <a href="https://www.youtube.com/channel/UCYhr7mjlaXXCset1vzm3Bow"><img src="https://yt3.ggpht.com/LchhRK3mRQZdao2lrAP8yAroq4nvjodzFEmwl5m0nwtYjD2ptdwVv6ScifSr6_yo4g0mXfMLHg=s88-c-k-c0x00ffffff-no-rj" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-**:point_up:**
-
+|        <img src="https://c.tenor.com/oQImZjcKwBIAAAAi/backhand-index-pointing-up-joypixels.gif" width="30px">                                                                           |
 
 
 <!---
