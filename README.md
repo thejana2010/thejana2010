@@ -74,6 +74,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejana2010" alt="thejana2010" /></a> </p>
 
 &nbsp;
+
+## 🎵 Now playing
+<a href="https://spotify.com/" target="_blank"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>
+
+&nbsp;
 <!-- end -->
 
 # CONTACT ME
