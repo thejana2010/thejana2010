@@ -85,8 +85,10 @@
 
 |  <a href="https://www.youtube.com/channel/UCYhr7mjlaXXCset1vzm3Bow"><img src="https://yt3.ggpht.com/LchhRK3mRQZdao2lrAP8yAroq4nvjodzFEmwl5m0nwtYjD2ptdwVv6ScifSr6_yo4g0mXfMLHg=s88-c-k-c0x00ffffff-no-rj" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|        <img src="https://c.tenor.com/oQImZjcKwBIAAAAi/backhand-index-pointing-up-joypixels.gif" width="30px">                                                                           |
+|        <img src="https://c.tenor.com/oQImZjcKwBIAAAAi/backhand-index-pointing-up-joypixels.gif" width="30px">                     |
 
+## 💰 Support Me
+<a href="https://ko-fi.com/thejanasathsara" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
 
 <!---
 thejana2010/thejana2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
