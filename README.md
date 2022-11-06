@@ -3,7 +3,7 @@
 
 <!-- BADGES -->
 
-[![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCYhr7mjlaXXCset1vzm3Bow)&nbsp;
+[![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCYhr7mjlaXXCset1vzm3Bow?sub_confirmation=1)&nbsp;
 [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/thejana2010)
 
 <!-- INFO -->
