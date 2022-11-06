@@ -83,7 +83,7 @@
 
 # CONTACT ME
 
-|  <a href="https://t.me/thejanasathsara"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTelegram_(software)&psig=AOvVaw3zykz3cbkWDDh7wKxCCwrM&ust=1667824156842000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDSvKTHmfsCFQAAAAAdAAAAABAE" width="150px" height="150px" /></a> |
+|  <a href="https://t.me/thejanasathsara"><img src="https://en.wikipedia.org/wiki/File:Telegram_2019_Logo.svg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |        <img src="https://c.tenor.com/oQImZjcKwBIAAAAi/backhand-index-pointing-up-joypixels.gif" width="30px">                     |
 
