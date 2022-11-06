@@ -83,7 +83,7 @@
 
 # CONTACT ME
 
-|  <a href="https://t.me/thejanasathsara"><img src="https://en.wikipedia.org/wiki/File:Telegram_2019_Logo.svg" width="150px" height="150px" /></a> |
+|  <a href="https://t.me/thejanasathsara"><img src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w240-h480-rw" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |        <img src="https://c.tenor.com/oQImZjcKwBIAAAAi/backhand-index-pointing-up-joypixels.gif" width="30px">                     |
 
